@@ -45,12 +45,12 @@ function erKvindeEllerBarn(person) {
 }
 
 /* Undersøger om personen er af hankøn og højrehåndet */
-function erHøjrehåndetMand(navn) {
+function erHøjrehåndetMand(person) {
 
 }
 
 /* Undersøger om personen er venstrehåndet og er kvinde eller barn */
-function erVenstrehåndetKvindeEllerVenstrehåndetBarn(navn) {
+function erVenstrehåndetKvindeEllerVenstrehåndetBarn(person) {
 
 }
 
